@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main() {
     int n, i, numero, contador = 0;
     printf("Ingrese la cantidad de elementos del arreglo en enteros: ");
